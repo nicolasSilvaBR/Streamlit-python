@@ -44,31 +44,14 @@ This project is a Streamlit-based web application that displays data, visualizat
    ```bash
    git clone https://github.com/yourusername/streamlit-reports-app.git
 
-Navigate to the project directory:
-
-bash
-Copy code
+### Navigate to the project directory:
 cd streamlit-reports-app
-Install the required Python libraries:
 
-bash
-Copy code
+### Install the required Python libraries:
 pip install -r requirements.txt
-Run the Streamlit app:
 
-bash
-Copy code
+### Run the Streamlit app:
 streamlit run app.py
-File Structure
-kotlin
-Copy code
-.
-├── data
-│   ├── sample.csv
-│   └── sample_map.csv
-├── app.py
-├── README.md
-└── requirements.txt
 
 ## Usage
 Once the app is running, open your browser at http://localhost:8501 to explore the data and visualizations.
